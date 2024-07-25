@@ -5,7 +5,6 @@ function greet(name) {
 }
 
 
-
 greet("MD ATIF RAZA");
 // Q2 Write a program that greets a person based on their gender .(If-else)
 function greet(name, gender) {
