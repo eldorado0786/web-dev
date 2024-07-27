@@ -18,7 +18,6 @@ function greet(name, gender) {
         console.log(`Hello ${name}`);
     }
 }
-
 greet("MD ATIF RAZA", "male")
 greet("Mrs RAZA", "female")
 // Q3 
