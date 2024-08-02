@@ -23,6 +23,5 @@ function greet(name, gender) {
 }
 
 greet("MD ATIF RAZA", "male");
-
 greet("Mrs RAZA", "female");
 // Q3 
