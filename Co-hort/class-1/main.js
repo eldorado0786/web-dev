@@ -1,5 +1,4 @@
 // Q1 Write a program to greet a person given their first and last name
-
 function greet(name) {
     console.log(`Hello ${name}`);
 }
